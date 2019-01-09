@@ -43,7 +43,7 @@ Fill in required details
     PlainsDemo.Select Prospective Shipper
     PlainsDemo.Enter Legal Entity of Shipper
     PlainsDemo.Go to Next Page
-    #sleep  3s
+    sleep  3s
     PlainsDemo.Fill in all required fields
 
     [Documentation]  Test3 - Approval/Rejection of application in Salesforce
